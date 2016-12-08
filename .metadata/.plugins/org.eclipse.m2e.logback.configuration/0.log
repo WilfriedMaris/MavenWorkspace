@@ -1,0 +1,12 @@
+2016-12-08 09:21:10,145 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: be.vdab.genk.wilfried.maris:cultuurhuis.wilfried.maris:0.0.1-SNAPSHOT @ C:\SharedWorkspace\EclipseWorkspace\cultuurhuis.wilfried.maris\pom.xml.
+2016-12-08 09:21:12,109 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cultuurhuis.wilfried.maris/src/main/java
+2016-12-08 09:21:12,109 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cultuurhuis.wilfried.maris/src/test/java
+2016-12-08 09:21:13,867 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2016-12-08 09:21:14,484 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-08 09:21:14,491 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SharedWorkspace\EclipseWorkspace\cultuurhuis.wilfried.maris\src\main\resources
+2016-12-08 09:21:14,494 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-08 09:21:14,501 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SharedWorkspace\EclipseWorkspace\cultuurhuis.wilfried.maris\src\test\resources
+2016-12-08 09:21:16,129 [Worker-14] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/ZI09~1.VDA/AppData/Local/Temp/RemoteBundleDiscoveryStrategy1982273221955593514.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_7430203908742900982.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-egit.xml
+2016-12-08 09:21:16,129 [Worker-14] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2016-12-08 09:21:16,135 [Worker-14] INFO  o.e.m.i.discovery.MavenDiscovery - No lifecyle mapping found at jar:file:/C:/Users/ZI09~1.VDA/AppData/Local/Temp/RemoteBundleDiscoveryStrategy1982273221955593514.tmp/org.eclipse.m2e.discovery.oss_catalog_1.6.jar_7430203908742900982.jar!/lifecycle%2Forg.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive.xml
+2016-12-08 09:21:16,136 [Worker-14] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
